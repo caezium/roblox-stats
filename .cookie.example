@@ -1,0 +1,15 @@
+Paste your .ROBLOSECURITY cookie value on the line below this one, then rename
+this file to ".cookie" (the real file is gitignored and never committed).
+
+The cookie is OPTIONAL. Without it the tool runs in public-only mode and still
+pulls players / visits / favorites / likes + your MAU floor. The cookie only
+adds private & unpublished group games.
+
+WARNING: your .ROBLOSECURITY cookie is full account access and bypasses 2FA.
+Never share it, never paste it into a chat, never commit it. Log out of Roblox
+to invalidate it if it ever leaks.
+
+How to get it (Chrome/Edge): log into roblox.com -> F12 -> Application tab ->
+Cookies -> https://www.roblox.com -> copy the value of ".ROBLOSECURITY".
+
+PASTE_YOUR_COOKIE_VALUE_HERE

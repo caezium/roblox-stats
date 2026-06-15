@@ -1,0 +1,15 @@
+# Secrets — NEVER commit your Roblox cookie
+.cookie
+*.cookie
+
+# Personal data dumps
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
